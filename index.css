@@ -1,5 +1,5 @@
 * { margin: 0; box-sizing: border-box; font-family: system-ui; }
-body { background: #1b2b2b; color: #ddd; padding: 20px; }
+body { background: #C0CFCE ; color: #ddd; padding: 20px; }
 
 header { display: flex; align-items: center; gap: 12px; padding-bottom: 14px; margin-bottom: 18px; border-bottom: 2px solid #7CE6D8; }
 header img { width: 52px; }
